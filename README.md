@@ -8,7 +8,7 @@ This is an app that can:
 
 ## Live example
 
-* 
+* https://myosubug.github.io/color-gussing-game/
 
 ## Prerequisites
 
