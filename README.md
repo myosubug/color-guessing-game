@@ -1,9 +1,9 @@
 # Color guessing game
 
-This is an app that can:
+About this app:
 
 * randomly display a RGB number
-* 1 correct colors for the RGB and the rest of colors are incorrect colors for the RGB
+* 1 correct color for the RGB and the rest of colors are incorrect colors for the RGB
 * easy (3 colors) and hard (6 colors) mode
 
 ## Live example
