@@ -8,7 +8,7 @@ About this app:
 
 ## Live example
 
-* https://myosubug.github.io/color-gussing-game/
+* https://myosubug.github.io/color-guessing-game/
 
 ## Prerequisites
 
