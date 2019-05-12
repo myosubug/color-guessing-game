@@ -9,6 +9,7 @@ var resetButton = document.querySelector("#reset");
 var easybtn = document.querySelector("#easybtn");
 var hardbtn = document.querySelector("#hardbtn");
 
+//adding events for each button
 
 easybtn.addEventListener("click", function() {
     hardbtn.classList.remove("selected");
