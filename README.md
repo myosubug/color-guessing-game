@@ -16,7 +16,7 @@ About this app:
 
 ## Installing
 
-No installation is required.
+* No installation is required.
 
 ## Built With
 
